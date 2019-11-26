@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="springmvcleaning:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/springmvcleaning_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="springmvcleaning/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="springmvcleaning" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
